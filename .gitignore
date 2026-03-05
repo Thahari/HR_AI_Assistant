@@ -3,7 +3,7 @@ __pycache__/
 *.pyc
 
 # Virtual environment
-venv/
+env/
 
 # Large media files
 storage/video/
