@@ -1,0 +1,16 @@
+{
+  "question": "How would you explain a Algorithms concept to a non-technical stakeholder?",
+  "transcript": "Some steps to do are either using formulas and then you end it.",
+  "start_time": 0.0,
+  "end_time": 6.0,
+  "duration_seconds": 6.0,
+  "video_path": "storage\\video\\20260224082408_069ba26a_q12.webm",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": "Some steps to do are either using formulas and then you end it."
+    }
+  ],
+  "created_at": "2026-02-24T08:34:49Z"
+}

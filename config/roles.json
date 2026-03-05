@@ -1,0 +1,7 @@
+{
+    "Data Analyst": ["SQL", "Excel", "Python", "Power BI", "Tableau", "Data Cleaning", "Visualization"],
+    "Data Scientist": ["Python", "Machine Learning", "Statistics", "Deep Learning", "Model Evaluation", "Pandas", "Scikit-learn"],
+    "Machine Learning Engineer": ["Python", "TensorFlow", "PyTorch", "Model Deployment", "Docker", "APIs"],
+    "Business Analyst": ["Excel", "SQL", "Requirement Gathering", "Stakeholder Communication", "Power BI"],
+    "Software Developer": ["Java", "Python", "C++", "Data Structures", "Algorithms", "APIs", "Git"]
+  }

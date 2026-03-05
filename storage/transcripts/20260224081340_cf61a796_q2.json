@@ -1,0 +1,16 @@
+{
+  "question": "How would you explain a Model Evaluation concept to a non-technical stakeholder?",
+  "transcript": "the imprecision, then recall and F1 score.",
+  "start_time": 0.0,
+  "end_time": 5.76,
+  "duration_seconds": 5.76,
+  "video_path": "storage\\video\\20260224081340_cf61a796_q2.webm",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.76,
+      "text": "the imprecision, then recall and F1 score."
+    }
+  ],
+  "created_at": "2026-02-24T08:15:09Z"
+}

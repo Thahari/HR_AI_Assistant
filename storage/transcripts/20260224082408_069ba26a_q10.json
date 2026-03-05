@@ -1,0 +1,31 @@
+{
+  "question": "In your resume you wrote: 'Bachelors of Engineering in Artificial PROJECTS'. Can you explain your exact contribution here?",
+  "transcript": "irrigation based AI based on per python, then SQL, then the types of the plant and all is found in the dataset.",
+  "start_time": 1.52,
+  "end_time": 15.44,
+  "duration_seconds": 13.92,
+  "video_path": "storage\\video\\20260224082408_069ba26a_q10.webm",
+  "segments": [
+    {
+      "start": 1.52,
+      "end": 5.52,
+      "text": "irrigation based AI based on"
+    },
+    {
+      "start": 5.52,
+      "end": 8.64,
+      "text": "per python, then"
+    },
+    {
+      "start": 8.64,
+      "end": 12.44,
+      "text": "SQL, then the types of the plant"
+    },
+    {
+      "start": 12.44,
+      "end": 15.44,
+      "text": "and all is found in the dataset."
+    }
+  ],
+  "created_at": "2026-02-24T08:33:32Z"
+}
